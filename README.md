@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying computer science!
 - 🧠 I have an unhealthy attraction to really hard problems.
 - 📫 How to reach me: anzonthan@gmail.com
-- ⚡ Fun fact: I think Obsidian is one of the man''s best inventions 
+- ⚡ Fun fact: I think Obsidian is one of the man's best inventions 
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff"/> 
 <!---[![Abangira's GitHub stats](https://github-readme-stats.vercel.app/api?username=anzonathan&show_icons=true)](https://github.com/nimmusiima/github-readme-stats)--->
