@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathaniel Mugenyi
-- 👀 I’m interested in everything computers from transistors to kernals, to UI/UX dev, to algorithm optimization 
+- 👀 I’m interested in everything computers from transistors to kernals, to UI/UX dev, and Robotics.
 - 🌱 I’m currently studying computer science!
 - 🧠 I have an unhealthy attraction to really hard problems.
 - 📫 How to reach me: anzonthan@gmail.com
