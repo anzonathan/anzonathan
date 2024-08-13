@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Nathaniel Mugenyi
+#Hi, I’m Nathaniel ![Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 - 👀 I’m interested in everything computers from transistors to kernals, to UI/UX dev, and Robotics.
 - 🌱 I’m currently studying computer science!
 - 🧠 I have an unhealthy attraction to really hard problems.
