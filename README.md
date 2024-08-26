@@ -6,13 +6,11 @@
 - 📫 How to reach me: anzonthan@gmail.com 
 - ⚡ Fun fact: I think Obsidian is one of the man's best inventions 
 
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff"/> 
+![anzonathan's Stats](https://github-readme-stats.vercel.app/api?username=anzonathan&theme=react&show_icons=true&hide_border=true&count_private=true)
 
+![anzonathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anzonathan&theme=react&hide_border=true)
 
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anzonathan&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anzonathan&theme=transparent) 
+![anzonathan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzonathan&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 
 ### Languages
