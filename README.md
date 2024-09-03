@@ -4,7 +4,9 @@
 - 🌱 I’m currently study computer science and work as a SWE at Baseline
 - 🧠 I have an unhealthy attraction to really hard problems.
 - 📫 How to reach me: anzonthan@gmail.com 
-- ⚡ Fun fact: I think Obsidian is one of the man's best inventions 
+- ⚡ Fun fact: I think Obsidian is one of the man's best inventions
+
+### Curentttly ranked [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff"/> 
