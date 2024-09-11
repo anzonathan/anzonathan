@@ -9,9 +9,9 @@
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
 
-<img  alt="my stats" align = "left" width = "70%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anzonathan&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
+![Git Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=anzonathan&layout=compact&bg_color=ffffff00&text_color=ffffff")
 
-<img  alt="my stats" align = "left" width = "73%" src ="https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff"/> 
+![Git Stats]("https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff")
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anzonathan&theme=transparent) 
 
