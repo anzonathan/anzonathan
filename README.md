@@ -4,8 +4,8 @@
 - 🌱 I’m currently study computer science and work as a Software Engineer at Baseline
 - 🧠 I have an unhealthy attraction to really hard problems.
 - 📫 How to reach me: anzonthan@gmail.com 
-- ⚡ Fun fact: I think Obsidian is one of the man's best inventions
-
+- ⚡ Fun fact: I use Arch btw
+  
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
 
