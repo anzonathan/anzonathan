@@ -1,7 +1,7 @@
 # Hi, I’m Nathaniel <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
 
 - 👀 I’m interested in everything computers from transistors to kernals, to UI/UX dev, and Robotics.
-- 🌱 I’m currently study computer science and work as a Software Engineer at Baseline
+- 🌱 I currently study computer science and work as a Software Engineer at Baseline
 - 🧠 I have an unhealthy attraction to really hard problems.
 - 📫 How to reach me: anzonthan@gmail.com 
 - ⚡ Fun fact: I use Arch btw
