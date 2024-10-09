@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in everything computers from transistors to kernals, to UI/UX dev, and Robotics.
 - 🌱 I currently study computer science and work as a Software Engineer at Baseline
-- 🧠 I have an unhealthy attraction to really hard problems.
+- 🚀 Contributing to [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- 🧠 I have an unhealthy attraction to really hard problems
 - 📫 How to reach me: anzonthan@gmail.com 
 - ⚡ Fun fact: I believe Obsidian is one of the coolest tools
   
