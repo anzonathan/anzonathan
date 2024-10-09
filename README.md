@@ -1,4 +1,4 @@
-# Hi, I’m Nathaniel <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
+#  <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=FFFFFF&center=true&width=410&height=45&lines=Hi, I'm Nathaniel."> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
 
 - 👀 I’m interested in everything computers from transistors to kernals, to UI/UX dev, and Robotics.
 - 🌱 I currently study computer science and work as a Software Engineer at Baseline
