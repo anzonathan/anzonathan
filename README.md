@@ -5,7 +5,7 @@
 - 🚀 Contributing to [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - 🧠 I have an unhealthy attraction to really hard problems
 - 📫 How to reach me: anzonthan@gmail.com 
-- ⚡ Fun fact: I believe Obsidian is one of the coolest tools
+- ⚡ Fun fact: I believe Obsidian is one of best softwares ever made
   
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
