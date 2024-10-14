@@ -1,4 +1,4 @@
-# Hi, I'm Nathaniel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="36px"/> 
+# Hi, I'm Nathaniel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="35px"/> 
 
 - 👀 I’m interested in everything computers from transistors to kernals, to UI/UX dev, and Robotics.
 - 🌱 I currently study computer science and work as a Software Engineer at Baseline
