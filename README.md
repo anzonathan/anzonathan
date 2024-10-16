@@ -7,7 +7,7 @@
 - 📫 How to reach me: anzonthan@gmail.com 
 - ⚡ Fun fact: I believe Obsidian is one of best softwares ever made
   
-### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan&style=for-the-badge) in Uganda
+### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg&style=for-the-badge)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff"/> 
