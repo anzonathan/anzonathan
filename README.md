@@ -8,6 +8,8 @@
   
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
+[![](https://visitcount.itsvg.in/api?id=anzonathan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff"/> 
 
