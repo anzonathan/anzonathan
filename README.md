@@ -4,7 +4,12 @@
 - 🌱 I currently study computer science and work as a Software Engineer at Baseline
 - 🚀 Contributing to [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - 🧠 I have an unhealthy attraction to really hard problems
-- 📫 How to reach me: anzonthan@gmail.com 
+- 📫 How to reach me: anzonthan@gmail.com
+
+# Assumptions I hold
+
+- Life is a non-zero sum game
+- Life is a relational database
   
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
