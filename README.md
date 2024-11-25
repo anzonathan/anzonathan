@@ -10,6 +10,7 @@
 
 - Life is a non-zero sum game
 - Life is a relational database
+- Stackoverflow over any LLM
 - Outsmarting is really just outworking
   
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
