@@ -14,8 +14,9 @@
   
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
-[![](https://visitcount.itsvg.in/api?id=anzonathan&icon=0&color=0)](https://visitcount.itsvg.in) ![anzonathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anzonathan&theme=react&hide_border=true) ![anzonathan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzonathan&theme=react&show_icons=true&hide_border=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=anzonathan&icon=0&color=0)](https://visitcount.itsvg.in) 
 
+![anzonathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anzonathan&theme=react&hide_border=true) 
 ![anzonathan's Stats](https://github-readme-stats.vercel.app/api?username=anzonathan&theme=react&show_icons=true&hide_border=true&count_private=false)
 
 ### General Prupose Programming Languages
