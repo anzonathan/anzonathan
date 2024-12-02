@@ -9,7 +9,6 @@
 # Assumptions I hold
 
 - Life is a non-zero sum game
-- Life is a relational database
 - Stackoverflow over any LLM
 - Outsmarting is really just outworking
   
