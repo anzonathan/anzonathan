@@ -14,16 +14,9 @@
   
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
-[![](https://visitcount.itsvg.in/api?id=anzonathan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anzonathan&icon=0&color=0)](https://visitcount.itsvg.in) ![anzonathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anzonathan&theme=react&hide_border=true) ![anzonathan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzonathan&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff"/> 
-
-<img  alt="my stats" align = "right" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anzonathan&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anzonathan&theme=transparent) 
-
+![anzonathan's Stats](https://github-readme-stats.vercel.app/api?username=anzonathan&theme=react&show_icons=true&hide_border=true&count_private=false)
 
 ### General Prupose Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
