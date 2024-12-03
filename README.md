@@ -17,7 +17,7 @@
 [![](https://visitcount.itsvg.in/api?id=anzonathan&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=anzonathan&theme=transparent)
-![Stats](https://camo.githubusercontent.com/b14de918fe4fa791677fbcbdd8d9eaec450370b8df830d8746b3f94da6bb5078/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7472616e73706172656e74)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
 
 ### General Prupose Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
