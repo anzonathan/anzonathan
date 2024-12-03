@@ -16,7 +16,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=anzonathan&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-![anzonathan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anzonathan&theme=react&hide_border=true) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anzonathan&theme=terafox)
 ![anzonathan's Stats](https://github-readme-stats.vercel.app/api?username=anzonathan&theme=react&show_icons=true&hide_border=true&count_private=false)
 
 ### General Prupose Programming Languages
