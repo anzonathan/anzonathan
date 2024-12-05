@@ -11,6 +11,7 @@
 - Life is a non-zero sum game
 - Stackoverflow over any LLM
 - Outsmarting is really just outworking
+- Programming is really just packaging logic into reusable components
   
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
