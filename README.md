@@ -13,6 +13,7 @@
 - Outsmarting is really just outworking
 - Programming is really just packaging logic into reusable components
 - Humans, just like computers, function better in a network
+- Classical Music is good for your mind
   
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
