@@ -6,14 +6,7 @@
 - 🧠 I have an unhealthy attraction to really hard problems
 - 📫 How to reach me: anzonthan@gmail.com
 
-# Assumptions I hold
 
-- Life is a non-zero sum game
-- Stackoverflow over any LLM
-- Outsmarting is really just outworking
-- Programming is really just packaging logic into reusable components
-- Humans, just like computers, function better in a network
-- Music is math for the soul, math is music for the mind
   
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
