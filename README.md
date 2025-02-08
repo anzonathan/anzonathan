@@ -4,7 +4,7 @@
 - 🌱 I currently study computer science and work as a Software Engineer at Baseline
 - 🚀 Currently contributing to [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - 🧠 I have an unhealthy attraction to really hard problems
-- 📫 How to reach me: anzonthan@gmail.com
+- 📫 How to reach me: anzonathan@gmail.com
 
 
   
