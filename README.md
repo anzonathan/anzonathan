@@ -3,7 +3,7 @@
 - 👀 I’m interested in everything computers from transistors to machine learning.
 - 🌱 I currently study computer science and work as a Software Engineer at Baseline.
 - 🚀 Currently contributing to [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- 🧠 Definitely spend too much time configuring my obsidian.
+- 🧠 Definitely spend too much time configuring my ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white).
 - 📫 How to reach me: anzonathan@gmail.com
 
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
