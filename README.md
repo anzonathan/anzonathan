@@ -3,7 +3,7 @@
 - 👀 I’m interested in everything computers from transistors to machine learning.
 - 🌱 Currently a CS Major with a focus on Robotics and AI and I also work as a Software Engineer at [Baseline](https://b6e.tech)
 - 🚀 Currently contributing to [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- 🧠 Used to spend an insane amount of time configuring my Obsidian.
+- 🧠 Used to spend an insane amount of time configuring my Obsidian...I also think windows is garbage!
 - 📫 How to reach me: anzonathan@gmail.com or my [LinkedIn](https://www.linkedin.com/in/anzonathan/)
 
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
