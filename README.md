@@ -1,10 +1,10 @@
 # Hi, I'm Nathaniel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="34"/>
 
 - 👀 I’m interested in everything computers from transistors to machine learning.
-- 🌱 Currently study computer science and work as a Software Engineer at [Baseline](https://b6e.tech)
+- 🌱 Currently a CS Major with a focus on Robotics and AI and I also work as a Software Engineer at [Baseline](https://b6e.tech)
 - 🚀 Currently contributing to [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- 🧠 Definitely spend too much time configuring my Obsidian.
-- 📫 How to reach me: anzonathan@gmail.com
+- 🧠 Used to spend an insane amount of time configuring my Obsidian.
+- 📫 How to reach me: anzonathan@gmail.com or my [LinkedIn](https://www.linkedin.com/in/anzonathan/)
 
 ### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
 
