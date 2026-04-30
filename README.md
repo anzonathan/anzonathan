@@ -6,7 +6,7 @@
 - 🧠 Used to spend an insane amount of time configuring my Obsidian...I also think windows is garbage!
 - 📫 How to reach me: anzonathan@gmail.com or my [LinkedIn](https://www.linkedin.com/in/anzonathan/)
 
-### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda
+<!--### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/anzonathan.svg)](https://user-badge.committers.top/uganda_public/anzonathan) in Uganda-->
 
 [![](https://visitcount.itsvg.in/api?id=anzonathan&icon=0&color=0)](https://visitcount.itsvg.in) 
 
